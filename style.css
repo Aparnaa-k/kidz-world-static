@@ -52,6 +52,7 @@ nav img {
 #cart {
   font-weight: bold;
   align-items: center;
+  cursor: pointer;
 }
 
 header {
